@@ -1,12 +1,28 @@
-## Hi there 👋
+# Nome do Projeto
 
-<!--
+Descrição breve do projeto, sua motivação, propósito e tecnologias utilizadas.
 
-**Here are some ideas to get you started:**
+## Estrutura Visual
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Abaixo estão as imagens ilustrativas relacionadas ao projeto:
+
+### Tela 1
+![Tela 1](./1.png)
+
+### Tela 2
+![Tela 2](./2.png)
+
+### Tela 3
+![Tela 3](./3.png)
+
+### Tela 4
+![Tela 4](./4.png)
+
+### Tela 5
+![Tela 5](./5.png)
+
+## Como utilizar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/usuario/nome-do-repositorio.git
