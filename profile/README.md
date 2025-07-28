@@ -1,6 +1,6 @@
-# Nome do Projeto
+# Tech Challenge Fastfood - Fase 4
 
-Descrição breve do projeto, sua motivação, propósito e tecnologias utilizadas.
+Projeto da pós-graduação em Arquitetura de Software na FIAP
 
 ## Estrutura Visual
 
