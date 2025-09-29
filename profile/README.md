@@ -2,11 +2,11 @@
 
 Este repositório contém os principais artefatos de documentação referentes ao projeto, incluindo requisitos de negócio, diagramas de arquitetura, modelo de dados e evidências de qualidade.
 
-## 📖 Apresentação TechChallenge Fase 4
+## 📖 Apresentação Hackaton Fase 5 
 
 A apresentação do projeto foi realizada no dia 28/07/2025:
 
-SOAT \- TECH CHALLENGE \- FASTFOOD
+SOAT \- TECH CHALLENGE \- HACKATON
 
 GRUPO 17 (DISCORD) 62 (FIAP)
 
@@ -23,11 +23,9 @@ Acessos:
 
 | Titulo                   | Links                                                                                                                                                                                                                                                                                                                                                                      |
 |:-------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| GitHub \- OrderService   | [https://github.com/group-17-fiap-soat/order-fastfood-service](https://github.com/group-17-fiap-soat/order-fastfood-service)                                                                                                                                                                                                                                               |
-| GitHub \- AuthService    | [https://github.com/group-17-fiap-soat/auth-fastfood-service](https://github.com/group-17-fiap-soat/auth-fastfood-service)                                                                                                                                                                                                                                                 |
-| GitHub \- PaymentService | [https://github.com/group-17-fiap-soat/payment-fastfood-service](https://github.com/group-17-fiap-soat/payment-fastfood-service)                                                                                                                                                                                                                                           |
+| GitHub \- Hackaton       | [https://github.com/group-17-fiap-soat/order-fastfood-service](https://github.com/group-17-fiap-soat/order-fastfood-service)                                                                                                                                                                                                                                               |
+| GitHub \- HackatonAuth   | [https://github.com/group-17-fiap-soat/auth-fastfood-service](https://github.com/group-17-fiap-soat/auth-fastfood-service)                                                                                                                                                                                                                                                 |
 | Github \- Infra          | [https://github.com/group-17-fiap-soat/infra](https://github.com/group-17-fiap-soat/infra)                                                                                                                                                                                                                                                                                 |
-| Github \- Lambda         | [https://github.com/group-17-fiap-soat/lambda](https://github.com/group-17-fiap-soat/lambda)                                                                                                                                                                                                                                                                               |
 | Github \- Database       | [https://github.com/group-17-fiap-soat/database-trf](https://github.com/group-17-fiap-soat/database-trf)                                                                                                                                                                                                                                                                   |
 | Documentação             | [https://www.canva.com/design/DAGoOEMoO7I/HZeMQrmzN15N3j6I6ojPbA/view?utm\_content=DAGoOEMoO7I\&utm\_campaign=designshare\&utm\_medium=link2\&utm\_source=uniquelinks\&utlId=hb5019f590b](https://www.canva.com/design/DAGoOEMoO7I/HZeMQrmzN15N3j6I6ojPbA/view?utm_content=DAGoOEMoO7I&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb5019f590b) |
 | Vídeo \- Youtube         | [https://youtu.be/BWJbpuCnetI](https://www.youtube.com/watch?v=b7py2u_cs9I)                                                                                                                                                                                                                                                                                                |
@@ -72,6 +70,15 @@ Evidência do Quality Gate configurado no SonarQube, validando as entregas com n
 ![Quality Gate SonarQube](./5.png)
 
 ---
+
+
+## 📊 Monitoramento via Grafana + Prometheus
+
+Evidência do Grafana configurado na AWS utilizando o datasource Prometheus.
+
+![Grafana](./6.png)
+
+
 
 ## 📄 Como contribuir
 
